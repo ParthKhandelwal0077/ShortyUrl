@@ -84,18 +84,4 @@ The project follows a structured branching strategy:
 - Optimized slug generation with collision probability management
 
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Author
-
-Parth Khandelwal
-
-## 🙏 Acknowledgments
-
-- JNanoId for secure slug generation
-- Spring Boot team for the excellent framework
-- React.js community for the frontend library
-
 
